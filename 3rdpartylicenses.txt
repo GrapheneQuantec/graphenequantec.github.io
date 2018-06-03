@@ -105,6 +105,10 @@ MIT
 MIT
 MIT
 
+@angular/http@5.2.10
+MIT
+MIT
+
 angularfire2@5.0.0-rc.4
 MIT
 MIT
